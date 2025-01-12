@@ -11,7 +11,7 @@ Introducing my new sleek cases, no more chunky boxes. Jeffery Minton, thank you 
 
 Ronald Earl Walker - Inventor of the Post-Mechanical Keyboard
 
-1. I will adding a full-size 105-key writing instrument this year.
-2. Also build my next keyboards using a RP2040 Elite-Pi controller.
-3. The new PCBs have seven M3 mounting holes each.
-4. I will design a new minimalist case to use the PCB with mounting holes. 
+1. I will be building a full-size 105-key writing instrument this year.
+2. My next keyboards will include an RP2040 Elite-Pi controller.
+3. The new PCBs have mounting holes, seven M3 each.
+4. Those PCBs will fit into a future minimalist case. 
