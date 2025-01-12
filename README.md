@@ -7,6 +7,6 @@ Do Qwerty lemmings ever question their orthodoxy? No, swiwmming against the curr
 
 Do you think single-hand writers should use speech-to-text? No, crafting written language is best experienced as a tactle exercise.
 
-Introducing my new sleek cases, no more chunky boxes. Jeffery Minton, thank you for keyboard_stl_generator software... I figured out how to use it!
+Introducing my new sleek cases, no more chunky boxes. Jeffery Minton, thank you for the keyboard_stl_generator software.
 
 Ronald Earl Walker - Inventor of the Post-Mechanical Keyboard
