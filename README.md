@@ -7,6 +7,6 @@ Why are writers born in the third decade of the 21st century still being shackle
 
 Do Qwerty lemmings ever question their orthodoxy?
 
-Do you think single-hand writers are predisposed to prefer using voice recognition? I do not believe so. Crafting language is best experienced as a tactle exercise.
+Do you think single-hand writers are predisposed to prefer using voice recognition? No, crafting written language is best experienced as a tactle exercise.
 
 Ronald Earl Walker - Inventor of the Post-Mechanical Keyboard
