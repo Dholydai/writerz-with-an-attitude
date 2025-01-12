@@ -5,8 +5,8 @@ Why are writers born in the third decade of the 21st century still being shackle
 
 Do Qwerty lemmings ever question their orthodoxy? No, swiwmming against the current is very taxing.
 
-Do you think single-hand writers prefer using voice recognition? No, crafting written language is best experienced as a tactle exercise.
+Do you think single-hand writers should use speech-to-text? No, crafting written language is best experienced as a tactle exercise.
 
-Introducing my new sleek cases, no more chunky boxes. Jeff Minton, thank you for keyboard_stl_generator... I figured it out!
+Introducing my new sleek cases, no more chunky boxes. Jeffery Minton, thank you for keyboard_stl_generator software... I figured out how to use it!
 
 Ronald Earl Walker - Inventor of the Post-Mechanical Keyboard
