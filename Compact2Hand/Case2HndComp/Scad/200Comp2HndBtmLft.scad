@@ -1,13 +1,14 @@
-//Created by Dholydai on 28 Dec 2024
+//Dholydai: 17 Apr 2025
+
 //TXT
-translate([46,33.5,0])
+translate([52,33.5,0])
 rotate([0,0,0])
 linear_extrude(2.6)
-text("2HndC-Lft",size=10,font="Microsoft Sans Serif");
-translate([64,89,0])
+text("Cmp Lft",size=10,font="Microsoft Sans Serif");
+translate([61,89,0])
 rotate([0,0,0])
 linear_extrude(2.6)
-text("200",size=10,font="Microsoft Sans Serif");
+text("2Hnd",size=10,font="Microsoft Sans Serif");
 //BASE
 $fn=32;
 difference(){
@@ -27,9 +28,9 @@ difference(){
             cylinder(h=2,r1=2,r2=2);
 //Sidewall
 translate([0,2,2])
-    cube([3,55.175,7]);
-translate([0,77.175,2])
-    cube([3,55.175,7]);
+    cube([3,54.55,7]);
+translate([0,76.55,2])
+    cube([3,55.8,7]);
 translate([2,131.355,2])
     cube([151.4,3,7]);
 translate([2,0,2])
@@ -178,9 +179,6 @@ polyhedron(points=[[12,0,0], [18,0,0], [18,6,0], [12,6,0], [12,0,6], [12,6,6]],
          cylinder(d=2.8,h=12);      
       }
     }
-//Sidewall Notch for Stabilizer
-*translate([96.25,2.75,7.2])
-    cylinder(h=2,r1=1.5,r2=2.5);
   }
 //Cross Ribs
 translate([34.9,66.175,2])
@@ -214,10 +212,11 @@ cube(4);
 cube(4);
 
 //USB Threshold             
-translate([-3,59.575,0])
-    cube([3,15.2,2]);
-translate([0,57.175,2])
-    cube([3,20,1.5]);
+translate([-3,60.1,0])
+    cube([3,13.3,2.5]);
+translate([-3,60.1,2.5])
+    polyhedron(points=[[0,13.3,0], [0,0,0], [3,0,0], [3,13.3,0], [3,11.3,2], [3,2,2]],
+        faces=[[0,1,2,3],[5,4,3,2],[0,4,5,1],[0,3,4],[5,2,1]]);
     
 //Mechanical Union
 //Top Joint
