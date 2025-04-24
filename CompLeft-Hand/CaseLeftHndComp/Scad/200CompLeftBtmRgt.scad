@@ -1,13 +1,13 @@
-//Created by Dholydai on 28 Dec 2024
+// Dholydai: 18 Apr 2025
 //TXT
-translate([108,100])
+translate([108,100,0])
 rotate([0,0,180])
 linear_extrude(2.6)
-text("LeftC-Rgt",size=10,font="Microsoft Sans Serif");
-translate([90,42,0])
+text("Cmp Rgt",size=10,font="Microsoft Sans Serif");
+translate([103,42,0])
 rotate([0,0,180])
 linear_extrude(2.6)
-text("200",size=10,font="Microsoft Sans Serif");
+text("LeftHnd",size=10,font="Microsoft Sans Serif");
 //BASE
 $fn=32;
 difference(){
@@ -216,12 +216,13 @@ translate([123,115.35,2])
 cube(4);
 *translate([-4,34,4])
 cube(4);
-  
-//USB Threshold             
-translate([-3,59.575,0])
-    cube([3,15.2,2]);
-translate([0,57.175,2])
-    cube([3,20,1.5]);
+    
+ //USB Threshold             
+translate([-3,60.525,0])
+    cube([3,13.3,2.5]);
+translate([-3,60.525,2.5])
+    polyhedron(points=[[0,13.3,0], [0,0,0], [3,0,0], [3,13.3,0], [3,11.3,2], [3,2,2]],
+        faces=[[0,1,2,3],[5,4,3,2],[0,4,5,1],[0,3,4],[5,2,1]]);   
              
 //Mechanical Union
 //Top Joint
