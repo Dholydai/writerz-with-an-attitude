@@ -14,7 +14,7 @@ I think that single-hand writers should use a keyboard when crafting written lan
 
 All of my compact keyboards are in the new case now, as is the ambidexterous 60 percent variant.
 
-My sister (a Qwerty touch typer) evaluated a TKL. As a result of her critique:
+My sister (a Qwerty touch-typer) evaluated a TKL. As a result of her critique:
 
 1. The TKL is scrapped for new full-sized variants, 106-key and 109-key.
 2. The Jumbo and Maximus use the Elite-Pi. It has 25 PIOs that allow for Num Lock and Caps Lock LEDs.
