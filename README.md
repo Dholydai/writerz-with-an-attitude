@@ -18,7 +18,7 @@ My sister (a Qwerty touch-typer) evaluated a TKL. As a result of her critique:
 
 1. The USB port has been redesigned to make 'blind' plugging-in easy. All varients have been upgraded. 
 2. The TKL is scrapped for new full-sized variants, 106-key and 109-key.
-3. The Jumbo and Maximus use the Elite-Pi. It has the 25 PIOs needed to include a Num Lock and Caps Lock LEDs.
+3. The Jumbo and Maximus use the Elite-Pi. It has the 25 PIOs needed to include Num Lock and Caps Lock LEDs.
 
 The big keyboards are working; however, the seven section case has presented problems: It will not sit nicely.
 
