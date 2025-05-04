@@ -23,8 +23,8 @@ My sister (a Qwerty touch-typer) evaluated a TKL. As a result of her critique:
 The big keyboards are working; however, the seven section case has presented problems: It will not sit nicely.
 
 1. I built two full-sized keyboards with Gateron switches... never again! The switches are deformed; key caps are jacked at all angles. 
-2. Cherry MX switches have great quality. I will build two more big keyboards with Cherry switches.
-3. The case is now redesigned to allow the PCB more room and the sidewall mating surfaces have been tweaked in OpenSCAD.
+2. Cherry MX switches have great quality. Never had a problem with them. I will build all future keyboards with Cherry switches.
+3. The case is now redesigned to allow the PCB more room and the case sections' mating surfaces have been tweaked in OpenSCAD.
 
 When the case problems are solved I will publish the full-sized case designs.
 
