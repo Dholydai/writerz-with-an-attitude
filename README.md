@@ -5,7 +5,7 @@ Why are writers born in the third decade of the 21st century still being shackle
 
 Do Qwerty lemmings ever question their orthodoxy? As a Dvorak user I have spent 35 years swimming against the current. It has been taxing.
 
-I think that single-hand writers should use a keyboard when crafting written language. That skill is best experienced as a tactle exercise.
+I believe that single-hand writers should use a keyboard when crafting written language. That skill is best experienced as a tactle exercise.
 
 1. I have designed new sleek cases, no more chunky boxes.
 2. My latest keyboards use an RP2040 Elite-Pi controller.
@@ -22,11 +22,11 @@ My sister (a Qwerty touch-typer) evaluated a TKL. As a result of her critique:
 
 The big keyboards are working; however, the seven section case has presented problems: It will not sit nicely.
 
-1. I tried out Gateron switches... never again! The key caps are jacked around at all angles. The switches are oversized for the case top holes. 
+1. I built two full-sized keyboards with Gateron switches... never again! The switches are deformed; key caps are jacked at all angles. 
 2. Cherry MX switches have great quality. I will build two more big keyboards with Cherry switches.
 3. The case is now redesigned to allow the PCB more room and the sidewall mating surfaces have been tweaked in OpenSCAD.
 
-When the case problems are solved I will publish the case designs.
+When the case problems are solved I will publish the full-sized case designs.
 
 Ronald Earl Walker - Inventor of the Post-Mechanical Keyboard
    
