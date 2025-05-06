@@ -26,7 +26,13 @@ The big keyboards are working; however, the seven section case has presented pro
 2. Cherry MX switches have great quality. Never had a problem with them. I will build all future keyboards with Cherry switches.
 3. The case is now redesigned to allow the PCB more room and the case sections' mating surfaces have been tweaked in OpenSCAD.
 
-When the case problems are solved I will publish the full-sized case designs.
+I have learned, after five weeks of struggle to get the full-sized the case problems solved, that:
+
+1. My Voron Trident cannot print exactingly square parts. By fluke of my design methods, those parts worked well enough for compact cases. 
+2. This is no reflection on Voron Design, this problem is intrinsic to all CoreXY printers; well-built bed slingers do not have this fault.
+3. My Prusa MK3.5 is getting a new companion... a Prusa MK4S. The kit cost less now (May 2025) than the i3 MK3S+ did two years ago.
+
+I will publish the full-sized case designs shortly. Printing the case bottom sections on my old Prusa for now.
 
 Ronald Earl Walker - Inventor of the Post-Mechanical Keyboard
    
