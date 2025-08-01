@@ -3,7 +3,8 @@ Human-factored writing instruments for 'Writerz with an Attitude'.
 
 Why are writers born in the third decade of the 21st century still being shackled to a 19th-Century mechanical typewriter interface?
 
-Do Qwerty lemmings ever question their orthodoxy? As a Dvorak user I have spent 35 years swimming against the current. It has been taxing.
+Fifty-five years ago, I rejected the Qwerty typewriter. I been using a Dvorak keyboard for 35 years. Swimming against the current has been taxing.
+I built a Qwerty for my sister, she is happy using her old keyboard. In good conscience, I will never build another Qwerty.
 
 I believe that single-hand writers should use a keyboard when crafting written language. That skill is best experienced as a tactle exercise.
 
@@ -13,7 +14,7 @@ I believe that single-hand writers should use a keyboard when crafting written l
 4. All variants now have LED indicators (Caps Lock, Num Lock)
 5. All Variants now have 'Fn' LEDs for layer indication (working to create the code).  
 
-My sister (a Qwerty touch-typer) evaluated a TKL. As a result of her critique:
+My sister evaluated a TKL. As a result of her critique:
 
 1. The USB port has been redesigned to make 'blind' plugging-in easier. 
 2. The TKL is scrapped for a new full-sized variant, the 109-key Maximus.
