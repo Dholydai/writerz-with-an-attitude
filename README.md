@@ -12,7 +12,7 @@ I believe that single-hand writers should use a keyboard when crafting written l
 2. All of my keyboards now use an RP2040 Elite-Pi controller.
 3. New slim PCB designs were developed to fit the new case.
 4. All variants now have LED indicators (Caps Lock, Num Lock)
-5. All Variants now have 'Fn' LEDs for layer indication (working to create the code).  
+5. The Sixty percent keyboard has two 'Fn' LEDs for layer indication (working to create the code).  
 
 My sister evaluated a TKL. As a result of her critique:
 
