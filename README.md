@@ -1,7 +1,7 @@
 # writerz-with-an-attitude
 Human-factored writing instruments for 'Writerz with an Attitude'.
 
-![Alt text](Photos/MaximusRdx.png)
+# ![Alt text](Photos/MaximusRdx.png)
 <img src="Photos/Maximus.png" width="300" />
 
 Why are writers born in the third decade of the 21st century still being shackled to a 19th-Century mechanical typewriter interface?
