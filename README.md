@@ -7,7 +7,7 @@ Why are writers born in the third decade of the 21st century still being shackle
 
 Been using a Dvorak keyboard for thirty-five years. The Dvorak 2025 has the keys placed where my fingers expect them to be.
 
-Built a Qwerty for my sister, never again. She was happier using her old keyboard. Inhabitants of the Qwertyverse are a blissful lot. 
+Built a Qwerty for my sister, never again. She is happier using her old keyboard. Inhabitants of the Qwertyverse are a blissful lot. 
 
 Single-hand writers should have use of a modern writing instrument. August Dvorak designed thoughful single-hand letter schemes.
 
@@ -27,12 +27,12 @@ Quality of key switches:
 2. Cherry MX switches have great quality. Never had a problem with them. I now build all of my keyboards with Cherry switches.
 3. The 3D printed case designs have been tweaked in OpenSCAD to insure that the sidewall mating surfaces meet perfectly.
 
-After a month of struggle to get the Maximus case fit problems solved (the case would not sit flat on a desktop), I have learned that:
+After a month of struggle to get the Maximus case problem solved (the case would not sit flat on a desktop), I have learned that:
 
-1. My Voron Trident cannot print exactly dimensioned case bottom sections. By fluke of design, those parts worked well enough for compact cases. 
+1. My Voron Trident cannot print good case bottom sections. By fluke of design, they were adequate enough for two-section case bottoms. 
 2. This is no reflection on Voron Design, this problem is intrinsic to all CoreXY printers; well-built bed slingers do not have this fault.
 3. My Prusa MK3.5 has a new companion... a Prusa MK4S. The new printer makes parts that match-up perfectly with the MK 3.5 parts.  
-4. Print times for case bottom sections changed dramatically: from 3hs 15 mins to 1 hr 45 mins! I am now a Prusa snob.
+4. Print times for case bottom sections changed dramatically: from 3hs 15 mins to 1 hr 45 mins. I am now a committed Prusa fanatic.
 
 Link to my repo of custom KiCad libraries: [MX Switch Custom](https://github.com/Dholydai/mx-switch-custom)
 
