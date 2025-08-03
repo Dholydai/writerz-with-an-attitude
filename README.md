@@ -27,7 +27,16 @@ Quality of key switches:
 2. Cherry MX switches have great quality. Never had a problem with them. I now build all of my keyboards with Cherry switches.
 3. The 3D printed case designs have been tweaked in OpenSCAD to insure that the sidewall mating surfaces meet perfectly.
 
-After a month of struggle to get the Maximus case problem solved (the case would not sit flat on a desktop), I have learned that:
+Availability of keycap sets:
+
+I have been subsituting common keycaps sizes from large XDA keycapy sets, and relabeling them with keycap stickers as needed.
+
+YUZU custom keycaps makes any die-sub keycap set that your heart desires. I have designed and bought five sets in two months. Even
+with the new high tariffs, the price is a affordable. Good quality product.
+
+Maximus case problem:
+
+The case would not sit flat on a desktop. After over a month of struggle to get the problem solved, I have learned that:
 
 1. My Voron Trident cannot print good case bottom sections. By fluke of design, they were adequate enough for two-section case bottoms. 
 2. This is no reflection on Voron Design, this problem is intrinsic to all CoreXY printers; well-built bed slingers do not have this fault.
