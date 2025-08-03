@@ -3,8 +3,10 @@ Human-factored writing instruments for 'Writerz with an Attitude'.
 
 Why are writers born in the third decade of the 21st century still being shackled to a 19th-Century mechanical typewriter interface?
 
-Fifty-five years ago, I rejected the Qwerty typewriter. I been using a Dvorak keyboard for 35 years. Swimming against the current has been taxing.
-I built a Qwerty for my sister, she is happy using her old keyboard. In good conscience, I will never build another Qwerty.
+Fifty-five years ago, I rejected the Qwerty typewriter, the letter arrangement is stupid. I began using a Dvorak keyboard with my first PC 35 years ago.
+
+I built a Qwerty for my sister, her feedback helped me refine my keyboard and case designs. I asked for it back after realizing the she was happier
+using her old keyboard. Inhabitants of the Qwertyverse are a blissful lot. In good conscience, I will never build another Qwerty.
 
 I believe that single-hand writers should use a keyboard when crafting written language. That skill is best experienced as a tactle exercise.
 
