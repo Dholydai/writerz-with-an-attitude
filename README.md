@@ -3,7 +3,7 @@ Human-factored writing instruments for 'Writerz with an Attitude'.
 
 Why are writers born in the third decade of the 21st century still being shackled to a 19th-Century mechanical typewriter interface?
 
-Fifty-five years ago, I rejected the Qwerty typewriter, the letter arrangement is stupid. I began using a Dvorak keyboard with my first PC 35 years ago.
+Fifty-five years ago, I rejected the Qwerty typewriter, the letter arrangement is stupid. I began using a Dvorak keyboard thirty-five years ago.
 
 I built a Qwerty for my sister, her feedback helped me refine my keyboard and case designs. I asked for it back after realizing the she was happier
 using her old keyboard. Inhabitants of the Qwertyverse are a blissful lot. In good conscience, I will never build another Qwerty.
