@@ -1,15 +1,15 @@
 # writerz-with-an-attitude
 Human-factored Post-Mechanical writing instruments for 'Writerz with an Attitude'.
 
-<img src="Photos/MaximusGitHub.png" width="700" />
+<img src="Photos/MaximusGitHub.png" width="650" />
 
 Why are writers born in the third decade of the 21st century still being shackled to a 19th-Century mechanical typewriter interface?
 
 Been using a Dvorak keyboard for thirty-five years. The Dvorak 2025 has the keys placed where my fingers expect them to be.
 
-Built a Qwerty for my sister, she was happier using her old keyboard. Inhabitants of the Qwertyverse are a blissful lot. Never again.
+Built a Qwerty for my sister, never again. She was happier using her old keyboard. Inhabitants of the Qwertyverse are a blissful lot. 
 
-I believe that single-hand writers should use a keyboard when crafting written language. That skill is best experienced as a tactle exercise.
+Single-hand writers should have use of a modern writing instrument. August Dvorak designed thoughful single-hand letter schemes.
 
 1. New slim as possible PCB designs were developed to fit new sleek cases.
 2. All of my keyboards use an RP2040 Elite-Pi controller, with KMK firmware.
