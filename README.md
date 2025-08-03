@@ -1,5 +1,5 @@
 # writerz-with-an-attitude
-Human-factored Post-Mechanical writing instruments for 'Writerz with an Attitude'.
+Human-factored Post-Mechanical writing instruments for 'Writerz With an Attitude'.
 
 <img src="Photos/MaximusGitHub.png" width="650" />
 
