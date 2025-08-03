@@ -33,7 +33,7 @@ with the new high tariffs, the price is a affordable. Good quality product.
 
 The Maximus case would not sit flat on a desktop. After over a month of struggle to get past the problem, I have learned that:
 
-1. My Voron Trident cannot print good case bottom sections. By fluke of design, the parts were adequate enough for two-section case bottoms. 
+1. My Voron Trident cannot print quality parts. By fluke of design, the parts were adequate enough for two-section compact case bottoms. 
 2. This is no reflection on Voron Design, this problem is intrinsic to all CoreXY printers; well-built bed slingers do not have this fault.
 3. My Prusa MK3.5 has a new companion... a Prusa MK4S. The new printer makes parts that match-up perfectly with the MK 3.5 parts.  
 4. Print times for case bottom sections changed dramatically: from 3hs 15 mins to 1 hr 45 mins. I am now a committed Prusa fanatic.
