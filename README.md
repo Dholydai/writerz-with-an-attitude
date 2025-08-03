@@ -1,6 +1,8 @@
 # writerz-with-an-attitude
 Human-factored writing instruments for 'Writerz with an Attitude'.
 
+![Alt text](Photos/TwoHndCmpRdx.png)
+
 Why are writers born in the third decade of the 21st century still being shackled to a 19th-Century mechanical typewriter interface?
 
 Fifty-five years ago, I rejected the Qwerty typewriter, the letter arrangement is stupid. I began using a Dvorak keyboard thirty-five years ago.
