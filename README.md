@@ -32,16 +32,18 @@ Quality of key switches:
 
 Availability of keycap sets:
 
-I have been subsituting common keycaps sizes from large XDA keycap sets, and relabeling them with keycap stickers as needed. In May 2025
-that changed. There is now a keycap manufacturer that makes one-off custom sets.
+I have been subsituting common keycaps sizes for the exotic sizes required. I buy large XDA keycap sets, and relabel selected keycaps with keyboard 
+stickers as needed.
 
-YUZU custom keycaps will make any die-sub keycap set that your heart desires. Common sizes still have to be sustituted. Being able to choose 
-keycap sizes, colors, and legends is 'just what the doctor ordered'. I have designed and bought five sets in two months. Even
-with the new high tariffs, the price is a affordable. Good quality product.
+In May 2025 that all changed. There is now a keycap manufacturer that makes one-off custom sets. The Maxmus shown above is populated by the first set 
+that I created.
+
+YUZU custom keycaps will make any die-sub keycap set that your heart desires. Common sizes still have to be sustituted. Being able to choose keycap 
+sizes, colors, and legends is game changing. I have designed and bought five sets in two months. Good quality product.
 
 3D printer problems:
 
-The Maximus case would not sit flat on a desktop. After over a month of struggle to get past the problem, I have learned that:
+The Maximus case would not sit flat on a desktop. After over a month of struggle to solve the problem, I have reluctantly concluded that:
 
 1. My Voron Trident cannot print quality parts. By fluke of design, the parts were adequate enough for two-section compact case bottoms. 
 2. This is no reflection on Voron Design, this problem is intrinsic to all CoreXY printers; well-built bed slingers do not have this fault.
