@@ -27,7 +27,7 @@ the same letter scheme. The left-hand and right-hand keyboards are mirror images
 
 Quality of key switches:
 
-1. I built two full-sized keyboards with Gateron switches... never again! They are deformed; key caps are jacked around at all angles. 
+1. I built two full-sized keyboards with Gateron switches... never again! They are deformed; keycaps are jacked around at all angles. 
 2. Cherry MX switches have great quality. Never had a problem with them. Going forward, I build all of my keyboards with Cherry switches.
 
 Availability of keycap sets:
