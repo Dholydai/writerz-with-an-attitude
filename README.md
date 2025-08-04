@@ -32,7 +32,8 @@ Quality of key switches:
 
 Availability of keycap sets:
 
-I have been subsituting common keycaps sizes from large XDA keycap sets, and relabeling them with keycap stickers as needed.
+I have been subsituting common keycaps sizes from large XDA keycap sets, and relabeling them with keycap stickers as needed. In May 2025
+that changed. There is now a keycap manufacturer that makes one-off custom sets.
 
 YUZU custom keycaps will make any die-sub keycap set that your heart desires. Common sizes still have to be sustituted. Being able to choose 
 keycap sizes, colors, and legends is 'just what the doctor ordered'. I have designed and bought five sets in two months. Even
