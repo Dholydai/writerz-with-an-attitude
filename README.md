@@ -16,8 +16,8 @@ PC cases. The forty-eight character keys make the keyboards ISO compliant, compa
 
 <img src="Images/LaptopGitHub.png" width="650" />
 
-Single-hand writers should have use of modern writing instruments. After World War 2, LCDR Dvorak designed two thoughful single-hand letter 
-schemes for the typewriter so disabled veterans could write more comfortably.
+Single-hand writers should have use of modern writing instruments. After World War 2 ended, LCDR Dvorak designed two thoughful single-hand letter 
+schemes for the typewriter that enabled disabled veterans to write more comfortably.
 
 My new compact single-hand keyboard designs have a few notable tweaks, but do not stray too far from the original designs. Both variants now share 
 the same letter scheme. The left-hand and right-hand keyboards are mirror images of each other.
