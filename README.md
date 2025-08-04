@@ -23,7 +23,7 @@ My new compact single-hand keyboard designs have a few notable tweaks, but do no
 the same letter scheme. The left-hand and right-hand keyboards are mirror images of each other.
 
 
-<img src="Images/MaximusGitHub.png" width="650" />
+<img src="Images/LeftCmpGitHub.png" width="650" />
 
 Quality of key switches:
 
