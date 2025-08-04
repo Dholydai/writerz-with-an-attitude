@@ -1,7 +1,7 @@
 # writerz-with-an-attitude
 Human-factored Post-Mechanical writing instruments for 'Writerz With an Attitude'.
 
-<img src="Photos/MaximusGitHub.png" width="650" />
+<img src="Images/MaximusGitHub.png" width="650" />
 
 Why are writers born in the third decade of the 21st century still being shackled to an injurious 19th-Century mechanical typewriter interface?
 
@@ -10,11 +10,20 @@ my breakdown, I concluded that the physical arrangement of the keys on conventio
 
 I designed the Dvorak 2025 to place the keys where the fingers of my two hands expect them to be. I no longer have pain, writing is great fun.
 
+The Post-Mechanical variants establish a new universal keyboard standard. These human-factored designs will fit in currently produced laptop
+PC cases. The forty-eight character keys make the keyboards ISO compliant, compatable with European languages.
+
+
+<img src="Images/LaptopGitHub.png" width="650" />
+
 Single-hand writers should have use of modern writing instruments. After World War 2, LCDR Dvorak designed two thoughful single-hand letter 
 schemes for the typewriter so disabled veterans could write more comfortably.
 
 My new compact single-hand keyboard designs have a few notable tweaks, but do not stray too far from the original designs. Both variants now share 
 the same letter scheme. The left-hand and right-hand keyboards are mirror images of each other.
+
+
+<img src="Images/MaximusGitHub.png" width="650" />
 
 Quality of key switches:
 
