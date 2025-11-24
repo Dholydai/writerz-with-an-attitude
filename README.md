@@ -10,9 +10,10 @@ my breakdown, I concluded that the physical arrangement of the keys on conventio
 
 I designed the Dvorak 2025 to place the keys where the fingers of my two hands expect them to be. I no longer have pain, writing is great fun.
 
-The Post-Mechanical variants establish a new universal keyboard standard. These human-factored designs will fit in currently produced laptop
+The Post-Mechanical variants establish a 'Nuevo universal keyboard' standard. These human-factored designs will fit in currently produced laptop
 PC cases. The forty-eight character keys make the keyboards ISO compliant, compatable with European languages.
 
+I have created ISO compliant firmware, and designed Windows drivers for five European languages. That work continues forward. 
 
 <img src="Images/LaptopGitHub.png" width="650" />
 
