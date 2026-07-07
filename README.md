@@ -6,7 +6,8 @@ Human-factored Post-Mechanical writing instruments for 'Writerz With an Attitude
 Why are writers born in the third decade of the 21st century being shackled to a 19th-Century mechanical typewriter interface?
 
 I have used a Dvorak keyboard for thirty-five years. After two decades of typing bad pains developed in my left hand and wrist. Analyzing 
-my breakdown, I concluded that the physical arrangement of the keys on conventional keyboards forces unnatural and injurious movements. 
+my breakdown, I concluded that the physical arrangement of the keys on conventional keyboards forces operators into unnatural movements. 
+The hundred and fifty-two year old typewriter keyboard is injurious, as evidenced by the long history of 'typists' developing carpal tunnel syndrome.
 
 I designed the Dvorak 2025 to place the keys where the fingers of my two hands expect them to be. No more, writing is great fun now.
 
