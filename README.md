@@ -3,14 +3,14 @@ Human-factored Post-Mechanical writing instruments for 'Writerz With an Attitude
 
 <img src="Images/MaximusGitHub.png" width="650" />
 
-Why are writers born in the third decade of the 21st century still being shackled to an injurious 19th-Century mechanical typewriter interface?
+Why are writers born in the third decade of the 21st century being shackled to an injurious 19th-Century mechanical typewriter interface?
 
 I have been a Dvorak keyboard user for thirty-five years. After two decades of typing bad pains developed in my left hand and wrist. Analyzing 
 my breakdown, I concluded that the physical arrangement of the keys on conventional keyboards is unnatural.
 
-I designed the Dvorak 2025 to place the keys where the fingers of my two hands expect them to be. I no longer have pain, writing is great fun.
+I designed the Dvorak 2025 to place the keys where the fingers of my two hands expect them to be. No more, writing is great fun now.
 
-The Post-Mechanical variants establish a 'Nuevo universal keyboard' standard. These human-factored designs will fit in currently produced laptop
+The Post-Mechanical variants establish a 'Nuevo Universal Keyboard' standard. These human-factored designs will fit in currently produced laptop
 PC cases. The forty-eight character keys make the keyboards ISO compliant, compatable with European languages.
 
 I have created ISO compliant firmware, and designed Windows drivers for five European languages. That work continues forward. 
