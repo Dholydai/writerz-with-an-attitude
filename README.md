@@ -18,7 +18,7 @@ PC cases. The forty-eight character keys make the keyboards ISO compliant, compa
 <img src="Images/NoteBk6U.jpg" width="650" />
 
 I have created ISO compliant firmware, and designed Windows drivers for five European languages' so far.. Work on Lixux keyd configurations will
-begin. Apple keyboard drivers are not in my wheelhouse. Collaboration from those who can write Apple drivers is expected.
+begin. Apple drivers are not my wheelhouse. Collaboration from those who can write Apple drivers is expected.
 
 Single-hand writers should have use of modern writing instruments. After World War 2 ended, LCDR Dvorak designed two practical single-hand letter 
 schemes for the typewriter that enabled disabled veterans to type comfortably.
@@ -46,7 +46,7 @@ YUZU... In May 2025 I found a die-sub keycap manufacturer that makes one-off cus
 austere sets I have created. I have designed and purchased nine keycaps sets from YUZU, including Spanish(Spain), Portuguese(Brazil), and BÉPO(France). 
 
 YUZU custom keycaps will make any die-sub keycap set that your heart desires. Common sizes still have to be sustituted. Being able to choose keycap 
-sizes, colors, and legends is game changing. Love the new Penguin Slide Belly (PBS) profile keycaps. Great price and quality.
+sizes, colors, and legends is wonderful. Love the new Penguin Slide Belly (PBS) profile keycaps. Great price and quality.
 
 3D printer problems:
 
