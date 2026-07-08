@@ -17,7 +17,7 @@ PC cases. The forty-eight character keys make the keyboards ISO compliant, compa
 
 I have created ISO compliant firmware, and designed Windows drivers for five European languages. That work continues forward. 
 
-<img src="Images/LaptopGitHub.png" width="650" />
+<img src="Images/NoteBk6U.jpg" width="650" />
 
 Single-hand writers should have use of modern writing instruments. After World War 2 ended, LCDR Dvorak designed two thoughful single-hand letter 
 schemes for the typewriter that enabled disabled veterans to write more comfortably.
