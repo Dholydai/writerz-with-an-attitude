@@ -65,6 +65,8 @@ keyboard.keymap = [
 ]
 
 leds = LED(led_pin=[board.D9, ])
+# ledlft = LED(led_pin=[board.D7, ])
+# ledrgt = LED(led_pin=[board.D8, ])
 
 class LEDLockStatus(LockStatus):
     def set_lock_leds(self):
