@@ -1,6 +1,6 @@
 # writerz-with-an-attitude
-Human-factored Post-Mechanical writing instruments for 'Writerz With an Attitude'.
-colla
+Human-factored Post-Mechanical writing instruments designed for and approved by 'Writerz With an Attitude'.
+
 <img src="Images/Maximus.jpg" width="650" />
 
 Why are writers born in the third decade of the 21st century being shackled to a 19th-Century mechanical typewriter interface?
@@ -10,15 +10,15 @@ my breakdown, I concluded that the physical layout of keys on conventional keybo
 
 The typewriter keyboard is injurious, as evidenced by the long history of 'typists' developing carpal tunnel syndrome, including myself.
 
-I designed the Dvorak 2025 to place the keys where the fingers of my two hands expect them to be. No more pain, writing is fun now.
+I designed the Dvorak 2025 to place the keys where the fingers of my two hands expect them to be. No more pain, writing is fun again.
 
 The Post-Mechanical variants establish a 'Nuevo Universal Keyboard' standard. These human-factored designs will fit in currently produced laptop
 PC cases. The forty-eight character keys make the keyboards ISO compliant, compatable with European languages.
 
-I have created ISO compliant firmware, and designed Windows drivers for five European languages. Work on Lixux keyd configurations will begin. 
-Apple keyboad drivers are not in my wheelhouse. Collaboration from those who can write Apple drivers is expected.
-
 <img src="Images/NoteBk6U.jpg" width="650" />
+
+I have created ISO compliant firmware, and designed Windows drivers for five European languages' so far.. Work on Lixux keyd configurations will
+begin. Apple keyboard drivers are not in my wheelhouse. Collaboration from those who can write Apple drivers is expected.
 
 Single-hand writers should have use of modern writing instruments. After World War 2 ended, LCDR Dvorak designed two practical single-hand letter 
 schemes for the typewriter that enabled disabled veterans to type comfortably.
@@ -40,22 +40,23 @@ I have been subsituting common keycaps sizes for the exotic sizes required. I bo
 keyboard stickers as needed.
 
 Finding a 6U spacebar is difficult. My source makes spacebars with the stem 1\2U offset. I have designed alternate case top sections to accommodate that
-spacebar. My PCBs have a dual position spacebar switch footprint to accommodate either centered or offset.colla
+spacebar. My PCBs have a dual position switch footprint to accommodate either centered or offset spacebar.
 
-In May 2025 I found a die-sub keycap manufacturer that makes one-off custom sets. The Prusa orange Maxmius above is populated by one of the many austere
-sets I have created. I have designed and purchased nine keycaps sets from YUZU, including Spanish(Spain), Portuguese(Brazil), and BÉPO(France). 
+YUZU... In May 2025 I found a die-sub keycap manufacturer that makes one-off custom sets. The Prusa orange Maxmius above is populated by one of the many
+austere sets I have created. I have designed and purchased nine keycaps sets from YUZU, including Spanish(Spain), Portuguese(Brazil), and BÉPO(France). 
 
 YUZU custom keycaps will make any die-sub keycap set that your heart desires. Common sizes still have to be sustituted. Being able to choose keycap 
-sizes, colors, and legends is game changing. I have designed and bought five sets in two months. Good quality product.
+sizes, colors, and legends is game changing. Love the new Penguin Slide Belly (PBS) profile keycaps. Great price and quality.
 
 3D printer problems:
 
-The Maximus case would not sit flat on a desktop. After over a month of struggle to solve the problem, I reluctantly concluded that:
+The first Maximus case would not sit flat on a desktop. After a month of struggle to solve the problem, I reluctantly concluded that:
 
-1. My Voron Trident cannot print case top sections with enough quality. The X-axis to Y-axis geometry is not consistently 90 degrees.
-2. This problem is not Voran Designs' shortcoming, it is intrinsic to all Core-XY printers; well-built 'bed slingers' do not have this fault.
-3. My Prusa MK3.5 has a new companion... a Prusa MK4S. The new printer makes parts that match-up perfectly with the MK 3.5 parts.  
-4. Print times for a case bottom section changed dramatically: from 3hs 15 mins to 1 hr 45 mins. I am now a committed Prusa fanatic.
+1. My Voron Trident 350 cannot print case top sections with enough quality. The X-axis to Y-axis geometry is not consistently 90 degrees.
+2. This problem is not Voron Designs' shortcoming, it is intrinsic to all Core-XY printers; well-built 'bed slingers' do not have this fault.
+
+My Prusa MK3.5 has a new companion... a Prusa MK4S. The new printer makes parts that match-up perfectly with the MK 3.5 parts. Print times for a case
+bottom section changed dramatically: from 3hs 15 mins to 1 hr 45 mins. I am now a committed Prusa fanatic.
 
 Link to my repo of custom KiCad libraries: [MX Switch Custom](https://github.com/Dholydai/mx-switch-custom)
 
