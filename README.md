@@ -1,6 +1,6 @@
 # writerz-with-an-attitude
 Human-factored Post-Mechanical writing instruments for 'Writerz With an Attitude'.
-
+colla
 <img src="Images/Maximus.jpg" width="650" />
 
 Why are writers born in the third decade of the 21st century being shackled to a 19th-Century mechanical typewriter interface?
@@ -36,14 +36,14 @@ Cherry MX switches have great quality. Never had a problem with them. I build al
 
 Availability of keycap sets:
 
-I have been subsituting common keycaps sizes for the exotic sizes required. I buy large XDA keycap sets, and relabel selected keycaps with keyboard 
-stickers as needed.
+I have been subsituting common keycaps sizes for the exotic sizes required. I bought large XDA keycap sets, and relabeled selected keycaps with 
+keyboard stickers as needed.
 
-Finding a 6U space is possible. My source makes spacebars with the stem 1\2U offset. I have designed alternate case top sections to accommodate that
-spacebar. My PCBs have a dual position spacebar switch footprint to accommodate either keycap variant.
+Finding a 6U spacebar is difficult. My source makes spacebars with the stem 1\2U offset. I have designed alternate case top sections to accommodate that
+spacebar. My PCBs have a dual position spacebar switch footprint to accommodate either centered or offset.
 
-In May 2025 I found a die-sub keycap manufacturer that makes one-off custom sets. The Prusa orange Maxmius above is populated by the first of many 
-austere sets I have created. I have designed and purchased nine keycaps sets from YUZU, including Spanish(Spain), Portuguese(Brazil), and BÉPO(France). 
+In May 2025 I found a die-sub keycap manufacturer that makes one-off custom sets. The Prusa orange Maxmius above is populated by one of the many austere
+sets I have created. I have designed and purchased nine keycaps sets from YUZU, including Spanish(Spain), Portuguese(Brazil), and BÉPO(France). 
 
 YUZU custom keycaps will make any die-sub keycap set that your heart desires. Common sizes still have to be sustituted. Being able to choose keycap 
 sizes, colors, and legends is game changing. I have designed and bought five sets in two months. Good quality product.
