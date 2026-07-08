@@ -17,7 +17,7 @@ PC cases. The forty-eight character keys make the keyboards ISO compliant, compa
 
 <img src="Images/NoteBk6U.jpg" width="650" />
 
-I have created ISO compliant firmware, and designed Windows drivers for five European languages' so far.. Work on Lixux keyd configurations will
+I have created ISO compliant firmware, and designed Windows drivers for five European languages' so far. Work on Lixux keyd configurations will
 begin. Apple drivers are not my wheelhouse. Collaboration from those who can write Apple drivers is expected.
 
 Single-hand writers should have use of modern writing instruments. After World War 2 ended, LCDR Dvorak designed two practical single-hand letter 
@@ -32,7 +32,8 @@ the same letter scheme. The left-hand and right-hand keyboards are mirror images
 
 Quality of key switches:
 
-Cherry MX switches have great quality. Never had a problem with them. I build all of my keyboards with Cherry switches.
+Cherry MX switches have great quality. Never had a problem with them. I build all of my keyboards with Cherry switches. Less costly switches from other
+manufacturers that I have tried are not shaped consistantly. Those switches would not fit the tight tolerances of my case tops.
 
 Availability of keycap sets:
 
