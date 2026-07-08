@@ -40,8 +40,8 @@ stickers as needed.
 Finding a 6U space is possible. My source makes spacebars with the stem 1\2U offset. I have designed alternate case top sections to accommodate that
 spacebar. My PCBs have a dual position spacebar switch footprint to accommodate either keycap variant.
 
-In May 2025 I found a die-sub keycap manufacturer that makes one-off custom sets. The Prusa orange Maxmius is populated by the first austere set I
-created. I have designed and purchased nine keycaps sets from YUZU, including Spanish(Spain), Portuguese(Brazil), and BÉPO(France). 
+In May 2025 I found a die-sub keycap manufacturer that makes one-off custom sets. The Prusa orange Maxmius above is populated by the first of many 
+austere sets I have created. I have designed and purchased nine keycaps sets from YUZU, including Spanish(Spain), Portuguese(Brazil), and BÉPO(France). 
 
 YUZU custom keycaps will make any die-sub keycap set that your heart desires. Common sizes still have to be sustituted. Being able to choose keycap 
 sizes, colors, and legends is game changing. I have designed and bought five sets in two months. Good quality product.
