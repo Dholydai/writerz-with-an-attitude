@@ -40,7 +40,7 @@ I have been subsituting common keycaps sizes for the exotic sizes required. I bo
 keyboard stickers as needed.
 
 Finding a 6U spacebar is difficult. My source makes spacebars with the stem 1\2U offset. I have designed alternate case top sections to accommodate that
-spacebar. My PCBs have a dual position spacebar switch footprint to accommodate either centered or offset.
+spacebar. My PCBs have a dual position spacebar switch footprint to accommodate either centered or offset.colla
 
 In May 2025 I found a die-sub keycap manufacturer that makes one-off custom sets. The Prusa orange Maxmius above is populated by one of the many austere
 sets I have created. I have designed and purchased nine keycaps sets from YUZU, including Spanish(Spain), Portuguese(Brazil), and BÉPO(France). 
@@ -53,7 +53,7 @@ sizes, colors, and legends is game changing. I have designed and bought five set
 The Maximus case would not sit flat on a desktop. After over a month of struggle to solve the problem, I reluctantly concluded that:
 
 1. My Voron Trident cannot print case top sections with enough quality. The X-axis to Y-axis geometry is not consistently 90 degrees.
-2. This problem is of Voran Designs' making, it is intrinsic to all Core-XY printers; well-built bed slingers do not have this fault.
+2. This problem is not Voran Designs' shortcoming, it is intrinsic to all Core-XY printers; well-built 'bed slingers' do not have this fault.
 3. My Prusa MK3.5 has a new companion... a Prusa MK4S. The new printer makes parts that match-up perfectly with the MK 3.5 parts.  
 4. Print times for a case bottom section changed dramatically: from 3hs 15 mins to 1 hr 45 mins. I am now a committed Prusa fanatic.
 
