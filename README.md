@@ -33,7 +33,8 @@ the same letter scheme. The left-hand and right-hand keyboards are mirror images
 Quality of key switches:
 
 Cherry MX switches have great quality. Never had a problem with them. I build all of my keyboards with Cherry switches. Less costly switches from other
-manufacturers that I have tried are not shaped consistantly. Those switches would not fit the tight tolerances of my case tops. The stems tilted this and that way.
+manufacturers that I have tried are not shaped consistantly. Those switches would not fit the tight tolerances of my case tops. The stems tilted this
+way and that way.
 
 Availability of keycap sets:
 
