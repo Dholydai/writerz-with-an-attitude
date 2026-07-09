@@ -15,7 +15,7 @@ I designed the Dvorak 2025 to place the keys where the fingers of my two hands e
 The Post-Mechanical variants establish a 'Nuevo Universal Keyboard' standard. These human-factored designs will fit in currently produced laptop
 PC cases. The forty-eight character keys make the keyboards ISO compliant, compatable with European languages.
 
-<img src="Images/NoteBk6U.jpg" width="500" />
+<img src="Images/NoteBk6U.jpg" width="440" />
 
 I have created ISO compliant firmware, and designed Windows drivers for five European languages' so far. Work on Lixux keyd configurations will
 begin. Apple drivers are not my wheelhouse. Collaboration from those who can write Apple drivers is expected.
