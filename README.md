@@ -26,9 +26,9 @@ schemes for the typewriter that enabled disabled veterans to type comfortably.
 My new compact single-hand keyboard designs have a few notable tweaks, but do not stray far from the original designs. Both variants now share 
 the same letter scheme. The left-hand and right-hand keyboards are mirror images of each other.
 
-<img src="Images/LftCmp26.jpg" width="400" />
+<img src="Images/LftCmp26.jpg" width="385" />
 
-<img src="Images/RgtCmp26.jpg" width="400" />
+<img src="Images/RgtCmp26.jpg" width="385" />
 
 Quality of key switches:
 
