@@ -1,7 +1,7 @@
 # writerz-with-an-attitude
 Human-factored Post-Mechanical writing instruments designed for and approved by 'Writerz With an Attitude'.
 
-<img src="Images/Maximus.jpg" width="500" />
+<img src="Images/Maximus26.jpg" width="500" />
 
 Why are writers born in the third decade of the 21st century being shackled to a 19th-Century mechanical typewriter interface?
 
@@ -26,9 +26,9 @@ schemes for the typewriter that enabled disabled veterans to type comfortably.
 My new compact single-hand keyboard designs have a few notable tweaks, but do not stray far from the original designs. Both variants now share 
 the same letter scheme. The left-hand and right-hand keyboards are mirror images of each other.
 
-<img src="Images/LeftCmpGitHub.png" width="500" />
+<img src="Images/LftCmp26.png" width="500" />
 
-<img src="Images/RightCmpGitHub.png" width="500" />
+<img src="Images/RgtCmp26.png" width="500" />
 
 Quality of key switches:
 
