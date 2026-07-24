@@ -1,4 +1,4 @@
-# Post-Mech 2-Hand Maximus by Dholydai 07 Jul 2025
+# Post-Mech 2-Hand Maximus ISO by Dholydai 29 Nov 2025
 import board
 
 from kmk.kmk_keyboard import KMKKeyboard
@@ -8,6 +8,7 @@ from kmk.extensions.lock_status import LockStatus
 from kmk.extensions.LED import LED
 from kmk.modules.macros import Macros
 from kmk.modules.macros import Press, Release, Tap
+from kmk.extensions.international import International
 
 keyboard = KMKKeyboard()
 
@@ -40,18 +41,20 @@ PASTE = KC.MACRO(
 )
 
 MENU = KC.MACRO(
-    Press(KC.RSFT),
+    Press(KC.LSFT),
     Tap(KC.F10),
-    Release(KC.RSFT)
+    Release(KC.LSFT)
 )
+
+keyboard.extensions.append(International())
 
 keyboard.keymap = [
     [KC.ESC, KC.F1, KC.F2, KC.F3, KC.F4, KC.F5, KC.F6, KC.F7, KC.F8, KC.F9, KC.F10,
      KC.F11, KC.F12, KC.PSCR, KC.SLCK, KC.PAUS,
-     KC.NO, KC.GRV, KC.N1, KC.N2, KC.N3, KC.N4, KC.N5, KC.N6, KC.N7, KC.N8, KC.N9,
-     KC.N0, KC.LBRC, KC.RBRC, KC.INS, KC.HOME,
+     KC.NUBS, KC.GRV, KC.N1, KC.N2, KC.N3, KC.N4, KC.N5, KC.N6, KC.N7, KC.N8, KC.N9,
+     KC.N0, KC.MINS, KC.EQL, KC.INS, KC.HOME,
      KC.BSLS, KC.SLSH, KC.QUOT, KC.COMM, KC.DOT, KC.P, KC.Y, KC.F, KC.G, KC.C, KC.R,
-     KC.L, KC.MINS, KC.EQL, KC.DEL, KC.END,
+     KC.L, KC.LBRC, KC.RBRC, KC.DEL, KC.END,
      KC.BSPC, KC.A, KC.O, KC.E, KC.U, KC.I, KC.CAPS, KC.D, KC.H, KC.T, KC.N, KC.S,
      KC.ENT, COPY, CUT, PASTE,
      KC.LSFT, KC.SCLN, KC.Q, KC.J, KC.K, KC.X, KC.TAB, KC.B, KC.M, KC.W, KC.V, KC.Z,
