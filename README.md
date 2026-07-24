@@ -57,7 +57,7 @@ sizes, colors, and legends is wonderful. Love the new Penguin Slide Belly (PBS) 
 The first Maximus case would not sit flat on a desktop. After a month of struggle to solve the problem, I reluctantly concluded that:
 
 1. My Voron Trident 350 cannot print case top sections with enough quality. The X- to Y-axis geometry is not consistently 90 degrees.
-2. This problem is not Voron Designs' shortcoming, it is intrinsic to all Core-XY printers; that slop gets worse as printer size and belt length increases.
+2. This problem is not Voron Designs' shortcoming, it is intrinsic to all Core-XY printers; that slop gets worse as printer size increases.
 3. Well-built 'bed slingers' do not have this built-in fault.
 
 My Prusa MK3.5 has a new companion... a Prusa MK4S. The new printer makes parts that match-up perfectly with the MK 3.5 parts. Print times for a case
