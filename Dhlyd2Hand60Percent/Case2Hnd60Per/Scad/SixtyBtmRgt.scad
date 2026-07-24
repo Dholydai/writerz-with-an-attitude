@@ -1,7 +1,9 @@
-// Dholydai: 29 Mar 2025
-//24 May 2025: add 0.2mm to X and 0.1mm to SH add angle cuts
-//Measure top case: X=292.75 Y=102.25
-//Bottom case: X=286.75 Y=96.25
+//Dholydai: 29 Mar 2025 9mm Z and x=143.375
+//24 May 2025: Add 0.2mm to the section's X axis, compensating for shrinkage (x=143.575).
+// Add 0.1mm to the top & bottom screw holder's X axis, compensating for shrinkage.
+// Add shallow angle cuts to the sidewall butt faces, compensating for printer artifacts.
+//Measure top case: X=292.75 Y=102.25 total
+//Bottom case: X=286.75 Y=96.25 total
 
 //TXT
 translate([102.5,72,0])
@@ -60,7 +62,7 @@ translate([4,4,5.5])
         translate([2,0,0])
             square([2,7], center=true);
 }
-translate([4,92.55,5.5])
+translate([4,92.25,5.5])
     rotate([0,0,90]){
     rotate_extrude( angle=90)
         translate([2,0,0])
@@ -188,9 +190,9 @@ polyhedron(points=[[12,0,0], [18,0,0], [18,6,0], [12,6,0], [12,0,6], [12,6,6]],
 translate([95.85,93.5,7.2])
     cylinder(h=2,r1=1.5,r2=2.5);
 //Slop for D63
-translate([3.25,89.1,7.2])
+*translate([3.25,89.1,7.2])
     cylinder(h=2,r1=1,r2=2);
-translate([3.25,82.1,7.2])
+*translate([3.25,82.1,7.2])
     cylinder(h=2,r1=1,r2=2);
 
 //Shallow angle sidewall cuts
@@ -211,11 +213,11 @@ polyhedron(points=[[0.1,0,0], [5,0,0], [5,5,0], [0.1,5,0], [0,0,10], [5,0,10], [
   }
 //Cross Ribs
 translate([14.9,46.625,2])
-    cube([123.375,2,4]);
+    cube([123.375,2,3]);
 translate([41.9,12.3,2])
-    cube([2,72.25,4]);
+    cube([2,72.25,3]);
 translate([106.9,12.3,2])
-    cube([2,72.25,4]);
+    cube([2,72.25,3]);
     
 //Mid Supports
 translate([54,51.1,2])
@@ -224,9 +226,10 @@ translate([111,51.1,2])
     cylinder(h=6.9,r1=3,r2=3);
 //Patch for hole
 #translate([108,48,2])
-    cube(4);
+    cube(3);
 
 //Mechanical Union
+difference() {
 //Top Joint
 translate([120.575,84.25,2]){
     rotate([0,0,-90])
@@ -265,7 +268,12 @@ polyhedron(points=[[0,14,0], [6,14,0], [6,0,0], [6,14,6]],
         }
     }
 }
-difference() {
+ //Slop for Switch 48
+#translate([143.575,67.05,7.3])
+    cylinder(h=2,r1=2.5,r2=3);
+#translate([138.575,67.05,7.3])
+    cylinder(h=2,r1=1.5 ,r2=2);
+}  
 //Mechanical Joint
 //Bottom Joint
     translate([120.575,36,2]){
@@ -305,43 +313,12 @@ polyhedron(points=[[0,14,0], [6,14,0], [6,0,0], [6,14,6]],
         }
     }  
 }
- //Slop for Switch 48
-#translate([143.575,69,7])
-    cylinder(h=2,r1=2.5,r2=3);
-#translate([138.575,69,7])
-    cylinder(h=2,r1=1.5 ,r2=2);
-}    
+  
 //Dimensions Top Case Left Raw
 //Y=102.25 X-Back=102.25 X-Front=89.25
 //YB=
 //Measure Joint Screw Holes
-*translate([143.775,74.85,4])
+*translate([143.575,74.85,4])
     cube([5,5,5]);
-*translate([143.775,21.4,4])
-//Offset? NO!!
-cube([5,5,5]);
-*translate([143.775,3,0])
-    cube(8);
-*translate([143.775,85.25,0])
-    cube(8);
-//Measure PCB
-*translate ([0.4,0.4,9])
-    cube ([142.875,95.25,2]);
-*translate ([146.475,3.6,12])
-    cube ([142.875,95.25,2]);
-//Double X
-*translate([146.475,0,0])
-    cube([5,5,5]); 
-*translate([289.35,0,12])
+*translate([143.575,21.4,4])
     cube([5,5,5]);
-
-// End of Case  
-*translate([292.75,0,0])
-    cube([5,5,5]);
-*translate([130,96.25,0])
-    cube([5,5,5]);  
-//Top Left Joints (for fit) Z=4.2
-//Left Case Top: Done
-
-//Top Mid Joints (for fit) Z=4.2
-//Joints Mid Case Top: Done    

@@ -1,7 +1,11 @@
-//Dholydai: 29 Mar 2025 (USB centered)
-//24 May 2025: add 0.2mm to X and 0.1mm to SH add angle cuts
-//Measure top case: X=292.75 Y=102.25
-//Bottom case: X=286.75 Y=96.25
+//Dholydai: 29 Mar 2025 9mm Z and x=143.375
+//24 May 2025: Add 0.2mm to the section's X axis, compensating for shrinkage (x=143.575).
+// Add 0.1mm to the top & bottom screw holder's X axis, compensating for shrinkage.
+// Add shallow angle cuts to the sidewall butt faces, compensating for printer artifacts.
+// Add 20mm sidewall cut and threshold for U1 port.
+// Change USB port wedge to truncated 10 Jul 2026
+//Measure top case: X=292.75 Y=102.25 total
+//Bottom case: X=286.75 Y=96.25 total
 
 //TXT
 translate([50.9,24.9,0])
@@ -45,7 +49,7 @@ translate([2,2,5.5])
         translate([1,0,0])
             square([2,7], center=true);
 }
-translate([2,94.25,5.5])
+#translate([2,94.25,5.5])
     rotate([0,0,90]){
     rotate_extrude( angle=90)
         translate([1,0,0])
@@ -58,7 +62,7 @@ translate([4,4,5.5])
         translate([2,0,0])
             square([2,7], center=true);
 }
-translate([4,92.55,5.5])
+#translate([4,92.25,5.5])
     rotate([0,0,90]){
     rotate_extrude( angle=90)
         translate([2,0,0])
@@ -204,11 +208,11 @@ polyhedron(points=[[0.1,0,0], [5,0,0], [5,5,0], [0.1,5,0], [0,0,10], [5,0,10], [
 }
 //Cross Ribs
 translate([34.9,46.625,2])
-    cube([103.375,2,4]);
+    cube([103.375,2,3]);
 translate([41.9,12.3,2])
-    cube([2,72.25,4]);
+    cube([2,72.25,3]);
 translate([106.9,12.3,2])
-    cube([2,72.25,4]);
+    cube([2,72.25,3]);
 
 //Mid Supports
 translate([54,44.15,2])
@@ -217,15 +221,18 @@ translate([111,44.15,2])
     cylinder(h=6.9,r1=3,r2=3);
 //Patch for hole
 #translate([108,44,2])
-    cube(4);
+    cube(3);
     
 //USB Threshold             
 translate([-3,41.475,0])
     cube([3,13.3,2.5]);
+
+// Bottom Wedge Truncated             
 translate([-3,41.475,2.5])
-    polyhedron(points=[[0,13.3,0], [0,0,0], [3,0,0], [3,13.3,0], [3,11.3,2], [3,2,2]],
-        faces=[[0,1,2,3],[5,4,3,2],[0,4,5,1],[0,3,4],[5,2,1]]);
-    
+//                      0           1        2        3           4           5         6           7
+polyhedron(points=[[0,13.3,0], [0,0,0], [3,0,0], [3,13.3,0], [3,11.3,2], [3,2,2], [2,2,2], [2,11.3,2]],
+        faces=[[0,1,2,3],[5,4,3,2],[0,7,6,1],[7,4,5,6],[0,3,4,7],[5,2,1,6]]);
+        
 //Mechanical Union
 //Top Joint
 translate([120.575,84.25,2]){
@@ -306,21 +313,17 @@ polyhedron(points=[[0,14,0], [6,14,0], [6,0,0], [6,14,6]],
     }
 }
  //Slop for Switch 48
-#translate([143.575,27.25,7])
+#translate([143.575,29.2,7.3])
     cylinder(h=2,r1=2.5,r2=3);
-#translate([138.575,27.25,7])
+#translate([138.575,29.2,7.3])
     cylinder(h=2,r1=1.5 ,r2=2);
 }    
 //Dimensions Top Case Left Raw
 //Y=102.25 X-Back=102.25 X-Front=89.25
 
 //Measure Joint Screw Holes
-*translate([143.375,72.25,5])
+*translate([143.575,72.25,5])
     cube([5,5,5]);
-*translate([143.375,24,5])
+*translate([143.575,24,5])
     cube([5,5,5]);
-//Measure PCB
-*translate ([0.4,0.4,9])
-    cube ([142.875,95.25,2]);
-*translate ([146.475,3.6,12])
-    cube ([142.875,95.25,2]);    
+   
