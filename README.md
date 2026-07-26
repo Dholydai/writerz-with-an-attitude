@@ -5,7 +5,7 @@ Human-factored Post-Mechanical writing instruments designed for and approved by 
 
 <img src="Images/Comp26.jpg" width="370" />
 
-Why are writers born in the third decade of the 21st century being shackled to a 19th-Century mechanical typewriter interface?
+Why are nascent writers, born in the third decade of the 21st century, still being shackled to a 19th-Century mechanical typewriter interface?
 
 I have used a Dvorak keyboard for thirty-five years. After two decades of typing, bad pains developed in my left hand and wrist. Analyzing 
 my breakdown, I concluded that the physical layout of keys on conventional keyboards forces unnatural movements.
