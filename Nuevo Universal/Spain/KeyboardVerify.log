@@ -1,0 +1,3 @@
+    WARNING: € (U+20ac) is already defined more than once on the keyboard (on VK_E, ShiftState 'Ctl+Alt' and VK_5, ShiftState 'Ctl+Alt').
+    WARNING: '<' defined on OEM_102 (Base) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: '>' defined on OEM_102 (Shift) but not defined elsewhere. This key may not be present on all keyboards.
