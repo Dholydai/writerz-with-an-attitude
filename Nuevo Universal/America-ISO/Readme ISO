@@ -1,0 +1,9 @@
+Readme ISO:
+
+The Post-Mechanical keyboard has a writing core with 48 character keys. The extra key makes the keyboard ISO-compatible.
+
+Most European language keyboards are built on the ISO standard.
+
+This ISO US(English) Microsoft driver allows writers to use the ISO firmwared Dvorak keyboard in a normal manner. Using an ISO firmwared keyboard with the native Microsoft US(English) driver swaps the "[" and "]" pair (in the numbers-row) with the "-" and "=" (in the top-alpha row).
+
+Ronald Earl Walker
