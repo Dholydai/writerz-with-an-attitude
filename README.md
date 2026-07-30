@@ -19,7 +19,7 @@ PC cases. The forty-eight character keys make the keyboards ISO compliant, compa
 
 <img src="Images/NoteBk6U.jpg" width="440" />
 
-I have created ISO compliant firmware, and designed Windows drivers for five European languages' so far. Work on Lixux keyd configurations will
+I have created ISO compliant firmware, and designed Windows drivers for six European languages, so far. Work on Lixux keyd configurations will
 begin. Apple drivers are not my wheelhouse. Collaboration from those who can write Apple drivers is expected.
 
 Single-hand writers should have use of modern writing instruments. After World War 2 ended, LCDR Dvorak designed two practical single-hand letter 
