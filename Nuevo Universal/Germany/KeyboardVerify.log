@@ -1,0 +1,19 @@
+    WARNING: The character ẞ (U+1e9e) exists in the entry for VK_OEM_4, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1252) of the German (Germany) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: '<' defined on OEM_102 (Base) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: '>' defined on OEM_102 (Shift) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: '|' defined on OEM_102 (Ctl+Alt) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: Caps Lock is set between '0' and '=' (VK_0, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '1' and '!' (VK_1, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '2' and '"' (VK_2, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '3' and '§' (VK_3, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '4' and '$' (VK_4, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '5' and '%' (VK_5, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '6' and '&' (VK_6, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '7' and '/' (VK_7, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '8' and '(' (VK_8, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '9' and ')' (VK_9, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '+' and '*' (VK_OEM_PLUS, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between ',' and ';' (VK_OEM_COMMA, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '.' and ':' (VK_OEM_PERIOD, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '#' and ''' (VK_OEM_2, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ß' and '?' (VK_OEM_4, ShiftStates 'Base' and 'Shift').
