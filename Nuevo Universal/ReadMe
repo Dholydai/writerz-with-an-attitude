@@ -6,7 +6,7 @@ The Post-Mechanical Dvorak 2025 keymap has 48 character keys. This makes it comp
 
 I have created and tested Windows drivers for several European languages. Linux drivers will be developed next, Apple is not my wheelhouse.
 
-The US English ISO driver was written to facilitate developing European language drivers.
+The US English ISO driver was written to facilitate developing European language drivers (the locations of the '[ ]' and '- =' key sets are swapped).
 
 US(English) Post-Mechanical keyboard users should not install the ISO driver, the keyboard is hardwired to use the Microsoft's native US(English) QWERTY driver.
 
