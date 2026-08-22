@@ -1,4 +1,4 @@
-# Post-Mech Left Compact by Dholydai 07 Jul 2025
+# Post-Mech Left-Hand Compact by Dholydai 22 Aug 2026
 import board
 
 from kmk.kmk_keyboard import KMKKeyboard
