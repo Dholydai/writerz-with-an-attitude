@@ -1,4 +1,4 @@
-# Post-Mech 2-Hand Compact by Dholydai 07 Jul 2026
+# Post-Mech 2-Hand Sixty Ambidextrous 2nd Layer by Dholydai 22 Aug 2026
 import board
 
 from kmk.kmk_keyboard import KMKKeyboard
@@ -64,6 +64,7 @@ keyboard.keymap = [
      ],
 ]
 
+# KMK does not currently support discrete (one color) layer indicator LEDs
 leds = LED(led_pin=[board.D9, ])
 # ledlft = LED(led_pin=[board.D7, ])
 # ledrgt = LED(led_pin=[board.D8, ])

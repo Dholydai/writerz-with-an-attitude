@@ -1,4 +1,4 @@
-# Post-Mech 2-Hand Compact by Dholydai 07 Jul 2025
+# Post-Mech 2-Hand Sixty Right 2nd layer by Dholydai 22 Aug 2026
 import board
 
 from kmk.kmk_keyboard import KMKKeyboard
