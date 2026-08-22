@@ -1,4 +1,6 @@
-# Post-Mech 2-Hand Maximus by Dholydai 07 Jul 2025
+# Post-Mech 2-Hand Maximus (ANSI) by Dholydai 22 Aug 2026
+# Native Eng (US) with an unused 48th character key
+# Hard-wired Dvorak scheme (uses the QWERTY driver)
 import board
 
 from kmk.kmk_keyboard import KMKKeyboard
