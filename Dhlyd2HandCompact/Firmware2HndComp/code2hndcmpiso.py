@@ -1,4 +1,6 @@
-# Post-Mech 2-Hand Compact ISO by Dholydai 10 Nov 2025
+# Post-Mech 2-Hand Compact (ISO) by Dholydai 22 Aug 2026
+# For European (and other) languages that require a 48th character key
+# A Dvorak scheme that requires a custom driver
 import board
 
 from kmk.kmk_keyboard import KMKKeyboard
