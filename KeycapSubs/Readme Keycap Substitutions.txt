@@ -14,17 +14,18 @@ Trim to fit:                            1.75U**                          2.75U**
 Note* For the two-hand PMs:
 
 It is best to have a 1U 'Caps Lock" keycap to provide gaps separating it from the abutting
-character keys, lessening accidental activations. This also allows light from the LED to
-spread out from under the narrower keycap.
+character keys, reducing the rate of accidental activation. This also allows light from the
+LED to spread out from under the narrower keycap.
 
 Note** For the Right/Left PMs:
 
-The 2.5U key may be mythical. I have not acquired that keycap in any set that I have bought.
+The 2.5U key appears to be mythical. I have never seen that keycap out in the real world.
 
-Substituting a 2.25U for a 2+2/3U creates large gaps between the keys. Trimming (filing) off
-some of the side skirt of the 2.75U key and the abutting keys is aesthetically pleasing.
+Substituting a 2.25U for a 2+2/3U creates conspicuous gaps between the keys. Trimming (filing)
+off some of the side skirt of the 2.75U key and the abutting keys is aesthetically pleasing.
 
-Doing the same trim for the 1.75U - 1+2/3U keycap substitution is also a good choice.
+For the foregoing reason, Doing the same trim for the 1.75U - 1+2/3U keycap substitution is 
+also a good choice.
 
 Ronald Earl Walker
 
