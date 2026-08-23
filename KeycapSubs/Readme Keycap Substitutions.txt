@@ -21,7 +21,7 @@ Note** For the Right/Left PMs:
 
 The 2.5U key appears to be mythical. I have never seen that keycap out in the real world.
 
-Substituting a 2.25U for a 2+2/3U creates conspicuous gaps between the keys. Trimming (filing)
+Substituting a 2.25U for a 2+2/3U creates conspicuous gaps astride the key. Trimming (filing)
 off some of the side skirt of the 2.75U key and the abutting keys is aesthetically pleasing.
 
 For the foregoing reason, Doing the same trim for the 1.75U - 1+2/3U keycap substitution is 
