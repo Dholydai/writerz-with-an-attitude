@@ -14,8 +14,8 @@ The typewriter keyboard is injurious, as evidenced by the long history of 'typis
 
 I designed the Dvorak 2025 to place the keys where the fingers of my two hands expect them to be. No more pain, writing is fun again.
 
-The Post-Mechanical variants establish a 'Nuevo Universal Keyboard' standard. These human-factored designs will fit in currently produced laptop
-PC cases. The forty-eight character keys make the keyboards ISO compliant, compatable with European languages.
+I contend that the Post-Mechanical variants establish a 'Nuevo Teclado Universal' standard. These human-factored designs will fit in currently produced
+laptop PC cases. The forty-eight character keys make the keyboards ISO compliant, compatible with European languages.
 
 <img src="Images/NoteBk6U.jpg" width="440" />
 
