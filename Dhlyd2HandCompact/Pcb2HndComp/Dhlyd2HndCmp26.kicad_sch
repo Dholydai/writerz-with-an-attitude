@@ -13677,7 +13677,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Dholydai-Parts:Elite-Pi"
 			(at 257.81 143.51 90)
 			(hide yes)
 			(show_name no)
