@@ -4,8 +4,8 @@ Spanish - Dholydai... Check!
 <º12345  67890'¡ 
  \|@#~€  ¬
 
-*Ç_;:PY  FGCRL^^¨¨
-+ç-,.py  fgcrl``´´
+*Ç_;:PY  FGCRL¨¨^^
++ç-,.py  fgcrl´´``
 {}            [ ]
 
 AOEUI  DHTNS
@@ -15,7 +15,7 @@ aoeui  dhtns
 ÑQJKX  BMWVZ
 ñqjkx  bmwvz
 
-Diacritics test: passed on 11 Nov 2025
+Diacritics test: passed on 27 Aug 2026
 
 güi qué mère côte
 güi qué mère côte	
