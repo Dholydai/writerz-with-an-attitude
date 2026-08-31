@@ -207,7 +207,7 @@ polyhedron(points=[[0.1,0,0], [5,0,0], [5,5,0], [0.1,5,0], [0,0,10], [5,0,10], [
               );    
 }
 //Cross Ribs
-translate([34.9,46.625,2])
+translate([34.9,47.125,2])
     cube([103.375,2,3]);
 translate([41.9,12.3,2])
     cube([2,72.25,3]);
@@ -215,13 +215,10 @@ translate([106.9,12.3,2])
     cube([2,72.25,3]);
 
 //Mid Supports
-translate([54,44.15,2])
+translate([49,43,2])
     cylinder(h=6.9,r1=3,r2=3);
-translate([111,44.15,2])
+translate([115,43,2])
     cylinder(h=6.9,r1=3,r2=3);
-//Patch for hole
-#translate([108,44,2])
-    cube(3);
     
 //USB Threshold             
 translate([-3,41.475,0])

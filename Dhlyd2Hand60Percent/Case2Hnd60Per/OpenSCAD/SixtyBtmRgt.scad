@@ -212,7 +212,7 @@ polyhedron(points=[[0.1,0,0], [5,0,0], [5,5,0], [0.1,5,0], [0,0,10], [5,0,10], [
               );
   }
 //Cross Ribs
-translate([14.9,46.625,2])
+translate([14.9,47.125,2])
     cube([123.375,2,3]);
 translate([41.9,12.3,2])
     cube([2,72.25,3]);
@@ -220,13 +220,10 @@ translate([106.9,12.3,2])
     cube([2,72.25,3]);
     
 //Mid Supports
-translate([54,51.1,2])
+translate([59,53.25,2])
     cylinder(h=6.9,r1=3,r2=3);
-translate([111,51.1,2])
+translate([115,53.25,2])
     cylinder(h=6.9,r1=3,r2=3);
-//Patch for hole
-#translate([108,48,2])
-    cube(3);
 
 //Mechanical Union
 difference() {
