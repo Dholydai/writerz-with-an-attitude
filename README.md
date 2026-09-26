@@ -12,7 +12,7 @@ my breakdown, I concluded that the physical layout of keys on conventional keybo
 
 The typewriter keyboard is injurious, as evidenced by the long history of 'typists' developing carpal tunnel syndrome, including myself.
 
-I designed the 'Dvorak 2026' to place the keys where the fingers of my two hands expect them to be. No more pain, writing is fun again.
+I designed the 'Dvorak 2026' to place the keys where the fingers of my two hands expect them to be. No more pain, writing is fun.
 
 I contend that the Post-Mechanical variants establish a 'Nuevo Teclado Universal' standard. These human-factored designs will fit in currently produced
 laptop PC cases. The forty-eight character keys make the keyboards ISO compliant, compatible with European languages.
