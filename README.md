@@ -47,10 +47,12 @@ Finding a 6U spacebar is difficult. My source makes spacebars with the stem 1\2U
 spacebar. My PCBs have a dual position switch footprint to accommodate either centered or offset spacebar switch.
 
 YUZU... In May 2025 I found a die-sub keycap manufacturer that makes one-off custom sets. The Prusa orange Maxmius above is populated by one of the many
-austere sets I have created. I have designed and purchased nine keycaps sets from YUZU, including Spanish(Spain), Portuguese(Brazil), and BÉPO(France). 
+austere sets I have created. I have designed and purchased nine keycaps sets from YUZU, including Spanish(Spain), Portuguese(Brazil), and BÉPO(France).
 
 YUZU custom keycaps will make any die-sub keycap set that your heart desires. Common sizes still have to be sustituted. Being able to choose keycap 
 sizes, colors, and legends is wonderful. Love the new Penguin Slide Belly (PBS) profile keycaps. Great price and quality.
+
+The French, Spanish, and Brazilian keyboards were built in late August 2026.
 
 3D printer problems:
 
